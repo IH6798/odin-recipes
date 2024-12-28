@@ -1,0 +1,97 @@
+/* homepage styles */
+
+.homepage-title {
+    text-align: center;
+    font-weight: bold;
+    background-color: dimgray;
+
+
+}
+
+/* lasagna page style */
+
+.lasagna-title {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: bisque;
+    color: blue;
+
+}
+
+.lasagna-desc {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-weight: 500;
+    color: red;
+}
+
+.lasagna-desc-heading {
+    font-size: larger;
+    font-weight: lighter;
+    background-color: deepskyblue;
+    color: peru;
+    
+}
+
+
+
+
+
+
+/* fish and chips page style */
+
+.fishandchips-title {
+    text-align:right;
+    background-color: black;
+    color: rosybrown;
+    font-weight: 900;
+    font-size: 50px;
+
+}
+
+.img-fishandchips {
+    height: auto;
+    width: 700px;
+}
+
+.ingredients-title {
+    font-style: italic;
+    font-family: initial;
+    font-size: xx-small;
+    color: lime;
+}
+
+.step,
+.second-desc {
+    font-style: italic;
+    color: yellowgreen;
+}
+
+.fourth-step {
+    font-weight: 700;
+    color: steelblue;
+}
+
+.body-stuff {
+    background-color: blanchedalmond;
+}
+
+
+/* biryani page style */
+
+.list-of-ings {
+    background-color: yellow;
+} /* this shows inheritance */
+
+#yoghurt-list {
+
+    background-color: cadetblue;
+    font-size: 44px;
+}
+
+#onion-list {
+    font-size: 100px;
+    color: royalblue;
+    background-color: whitesmoke;
+}
